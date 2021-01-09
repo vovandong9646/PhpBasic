@@ -1,0 +1,2 @@
+# PhpBasic
+traning basic php
